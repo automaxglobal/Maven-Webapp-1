@@ -1,0 +1,89 @@
+19-Dec-2022 00:48:00.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.27
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.18.0-425.3.1.el8.x86_64
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.352.b08-2.el8_7.x86_64/jre
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_352-b08
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 00:48:00.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/bgyan/apache-tomcat-10.0.27/conf/logging.properties
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 00:48:00.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/bgyan/apache-tomcat-10.0.27/temp
+19-Dec-2022 00:48:00.341 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+19-Dec-2022 00:48:00.556 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 00:48:00.570 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [357] milliseconds
+19-Dec-2022 00:48:00.592 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Dec-2022 00:48:00.592 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+19-Dec-2022 00:48:00.598 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/ROOT]
+19-Dec-2022 00:48:00.743 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/ROOT] has finished in [145] ms
+19-Dec-2022 00:48:00.743 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/docs]
+19-Dec-2022 00:48:00.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/docs] has finished in [9] ms
+19-Dec-2022 00:48:00.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/examples]
+19-Dec-2022 00:48:00.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/examples] has finished in [128] ms
+19-Dec-2022 00:48:00.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/host-manager]
+19-Dec-2022 00:48:00.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/host-manager] has finished in [18] ms
+19-Dec-2022 00:48:00.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager]
+19-Dec-2022 00:48:00.913 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager] has finished in [13] ms
+19-Dec-2022 00:48:00.915 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 00:48:00.933 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [363] milliseconds
+19-Dec-2022 00:59:11.515 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+19-Dec-2022 00:59:11.529 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager]
+19-Dec-2022 00:59:11.539 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager] has finished in [10] ms
+19-Dec-2022 01:03:31.832 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/bgyan/apache-tomcat-10.0.27/conf/tomcat-users.xml]
+19-Dec-2022 01:03:57.466 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-Dec-2022 01:03:57.466 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 01:03:57.469 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Dec-2022 01:03:57.480 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 01:03:57.485 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 01:04:07.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.27
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.18.0-425.3.1.el8.x86_64
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.352.b08-2.el8_7.x86_64/jre
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_352-b08
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 01:04:07.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/bgyan/apache-tomcat-10.0.27/conf/logging.properties
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/bgyan/apache-tomcat-10.0.27
+19-Dec-2022 01:04:07.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/bgyan/apache-tomcat-10.0.27/temp
+19-Dec-2022 01:04:07.681 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+19-Dec-2022 01:04:07.875 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 01:04:07.889 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [318] milliseconds
+19-Dec-2022 01:04:07.913 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Dec-2022 01:04:07.913 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+19-Dec-2022 01:04:07.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/ROOT]
+19-Dec-2022 01:04:08.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/ROOT] has finished in [147] ms
+19-Dec-2022 01:04:08.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/docs]
+19-Dec-2022 01:04:08.074 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/docs] has finished in [9] ms
+19-Dec-2022 01:04:08.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/examples]
+19-Dec-2022 01:04:08.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/examples] has finished in [141] ms
+19-Dec-2022 01:04:08.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/host-manager]
+19-Dec-2022 01:04:08.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/host-manager] has finished in [17] ms
+19-Dec-2022 01:04:08.233 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager]
+19-Dec-2022 01:04:08.242 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/bgyan/apache-tomcat-10.0.27/webapps/manager] has finished in [9] ms
+19-Dec-2022 01:04:08.245 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Dec-2022 01:04:08.259 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [369] milliseconds
+19-Dec-2022 01:08:24.334 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/bgyan/apache-tomcat-10.0.27/webapps/Maven-App-1.war]
+19-Dec-2022 01:08:24.353 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/bgyan/apache-tomcat-10.0.27/webapps/Maven-App-1.war] has finished in [18] ms
+19-Dec-2022 01:09:30.373 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Maven-App-1] has started
+19-Dec-2022 01:09:30.391 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/Maven-App-1] is completed
+19-Dec-2022 01:40:01.540 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/bgyan/apache-tomcat-10.0.27/webapps/Maven-TestApp-2.war]
+19-Dec-2022 01:40:01.554 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/bgyan/apache-tomcat-10.0.27/webapps/Maven-TestApp-2.war] has finished in [13] ms
